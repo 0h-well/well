@@ -33,7 +33,7 @@ video {
 }
 
 
-img, video {
+img {
   user-select: none;
   pointer-events: none;
   -webkit-touch-callout: none;
